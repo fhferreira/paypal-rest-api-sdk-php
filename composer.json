@@ -1,6 +1,6 @@
 {
-    "name": "12go/rest-api-sdk-php",
-    "description": "PayPal's PHP SDK for REST APIs",
+    "name": "fhferreira/paypal-rest-api-sdk-php",
+    "description": "Clone of deleted PayPal's PHP SDK for REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
     "license": "Apache-2.0",
